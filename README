@@ -1,0 +1,11 @@
+Hey, this is our repository for our project
+
+Setup:
+  first, set up github on your computer and make sure you create your local copy of this project in
+      your eclipse workspace.
+  second, sync this to your new eclipse project folder
+  third, you should see this README + AndroidManifest + a single java file down a long directory src/com/ucla... etc
+  if you see all that, you are gold!
+
+Usage:
+  I'll help you more later.
